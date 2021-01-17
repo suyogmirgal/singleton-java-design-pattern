@@ -4,8 +4,8 @@ The singleton pattern is a design pattern that restricts the instantiation of a 
 
 
 
-##### Example:
-###### Database Connectivity:
+### Example:
+#### Database Connectivity:
 Singleton Design Pattern can be understood by a very simple example of Database connectivity. 
 When each process creates a unique Database Connection to the Database, 
 it will highly affect the cost and expenses of the project. 
